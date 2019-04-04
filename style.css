@@ -4,6 +4,7 @@
     padding: 0;
 }
 
+
 html{
     scroll-behavior: smooth;
 }
@@ -11,13 +12,18 @@ html{
 body {
    margin: 0;
    font-family: 'Raleway', sans-serif;
-   background-color: #0d0f19;
+   background-color: #121524;
    overflow-x: hidden;
+   line-height: 1.5;
 }
 
 nav{
     top: 0;
     z-index: -250;
+}
+
+#contact{
+    color: dodgerblue;
 }
 
 
@@ -41,13 +47,20 @@ a{
     -webkit-transform: translate3d(0,0,0);
 }
 
+.contain{
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    position: relative;
+}
+
 #background{
    transform: scale(1.1) translateY(-40px);
 }
 
 .man{
     position: absolute;
-    z-index: -150;
+    z-index: -50;
     top: 0;
     left: 0;
     width: 100%;
@@ -296,6 +309,7 @@ h4{
 
         
 .title {
+    display: block;
     color: #fff;
     position: absolute;
     overflow: hidden;
@@ -309,6 +323,7 @@ h4{
 }
         
 #title__text {
+    display: block;
     font-size: 5.16vw;
     line-height: 1;
 /*    letter-spacing: 12px;*/
@@ -331,7 +346,7 @@ h4{
     width: 4.58vw;
     height: 4px;
     border-radius: 5px;
-    background: white;
+    background: dodgerblue;
 }
     
 .title__lead {
@@ -340,6 +355,7 @@ h4{
     line-height: 1.5;
     letter-spacing: 2px;
     font-weight: lighter;
+    display: block;
 }
 p {
     line-height: 2;
@@ -482,9 +498,103 @@ h6{
 .copy a{
     color: white;
     text-decoration: none;
+    padding: 3%;
 }
 
 
+@media (max-width : 750px){
+    
+    
+    .bg-image{
+        width: 200%;
+        text-align: center;
+    }
+    
+    .landing-heading-1{
+        margin: 15% 13% 1% 13%;
+        font-size: 3vw;
+    }
+    
+    .anni-nav{
+        text-align: center;
+        padding-right: 10px;
+    }
+    
+    .landing-heading-4{
+        margin-top: 60px;
+    }
+    
+    .man{
+        align-content: center;
+        width: 200%;
+        margin-left: -50%;
+    }
+    
+    .borderLeftRight{
+        font-size: 2vw;
+    }
+    
+    h2{
+        font-size: 3vw;
+        padding-top: 10px;
+    }
+    
+    .button-box{
+        margin-left: 0%;
+    }
+    
+    .letsgo{
+        margin-left: 40%;
+    }
+    
+    .letsgo a{
+        font-size: 2.39vw;
+    }
+    
+    #aboutdes{
+        margin-top: 3%;
+        font-size: 4vw;
+    }
+    
+
+    .btn{
+        display: none;
+    }
+
+    #title__text{
+        display: none;
+    }  
+ 
+    .title .border span{
+        display: none;
+    }
+
+    .title__lead{
+        display: none;
+    }
+
+    .image{
+        width: 100%;
+        height: 50%;
+        margin: 0 10% 0 10%;
+     }
+    
+    .fullpage__slide{
+        margin-bottom: -200px;
+        margin-top: -100px;
+    }
+    
+    .footer-spacing{
+        margin-top: 200px;
+    }
+    
+    footer{
+        font-size: 4vw;
+    }
+    
+
+
+}
 
 
 

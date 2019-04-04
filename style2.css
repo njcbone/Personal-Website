@@ -7,12 +7,17 @@
 body {
    margin: 0;
    font-family: 'Raleway', sans-serif;
-   background-color: #0d0f19;
+/*   background-color: #161b30;*/
+    background-color: #121524;
     line-height: 1.5;
 }
 
 .wrapper{
     margin: 5% 8%;
+}
+
+svg{
+    overflow: visible;
 }
 
 
@@ -134,7 +139,7 @@ body {
 }
 
 .underline{
-    margin-right: 350px;
+    margin-right: 250px;
     margin-top: 1px;
     padding-top: 1px;
     border-bottom: solid azure;
@@ -145,7 +150,7 @@ body {
     margin-right: 300px;
     margin-top: 1px;
     padding-top: 1px;
-    border-bottom: solid azure;
+    border-bottom: solid dodgerblue;
     line-height: 0.5;
 }
 
@@ -157,8 +162,8 @@ h2{
     text-align: left;
     margin: 25px 165px;
     font-size: 25px;
-    font-weight: lighter;
-    color: #dee3e7;
+    font-weight: normal;
+    color: dodgerblue;
     
 }
 
@@ -175,7 +180,7 @@ p{
     margin: 25px 165px;
     font-size: 20px;
     font-weight: lighter;
-    color: #aeaeae;
+    color: azure;
     
 }
 
@@ -261,6 +266,10 @@ p{
     transform: scaleX(1.15) scaley(1.05);
 }
 
+#white{
+   color: azure; 
+}
+
 
 
 .smaller-image{
@@ -288,7 +297,7 @@ p{
 	height:45px;
 	top:40px;
 	left:30px;
-	background-color:#0f1011;
+	background-color:#121524;
 	color:#FFF;
 	border-radius:50px;
     border-width: 2px;
@@ -350,6 +359,73 @@ h6{
 .copy a{
     color: white;
     text-decoration: none;
+    padding: 3%;
+}
+
+@media (max-width : 750px){
+    h2{
+        margin: 25px 0px;
+    }
+    
+    .landing-heading-1 {
+      text-align: left;
+      margin: 50px 0px;
+    }
+    
+    .landing-heading-2 {
+      margin: 50px 0px;
+    }
+    
+    p{
+      margin: 25px 0px
+    }
+    
+    .anni-nav{
+        text-align: center;
+        padding-right: 10px;
+    }
+    
+    .borderLeftRight{
+        font-size: 2vw;
+    }
+    
+    .center-image {
+      height: 50%;
+      width: 75%;
+    }
+    
+    .frame-set {
+      margin-left: 25%;
+    }
+    
+    .underline{
+        line-height: 1;
+    }
+    
+    .underline-2 {
+        line-height: 1.5;
+    }
+    
+    .center-image2 {
+      width: 50%;
+    }
+    
+    .center-image3 {
+      width: 50%;
+    }
+    
+    .img-set4 {
+      width: 100%;
+    }
+    
+    footer{
+        font-size: 4vw;
+    }
+    
+    video{
+        margin-left: -9%;
+    }
+    
 }
 
 
