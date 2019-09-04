@@ -425,7 +425,7 @@ h6 {
     justify-content: space-between;
     text-align: center;
     -webkit-flex-flow: row wrap;
-    max-width: 1320px;
+    max-width: 1600px;
 }
 
 .flex-item {
