@@ -364,7 +364,12 @@ p {
     margin-block-start: .4em;
     margin-block-end: .6em;
 }
-    
+
+.image--works6 {
+    background: url("./site_images/NJ-Moves_GridMock.png") no-repeat center;
+    background-size: cover;
+}
+
 .image--works {
     background: url("./site_images/hottub-cover.png") no-repeat center;
     background-size: cover;
