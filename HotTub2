@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116277308-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-116277308-2');
+
+    </script>
+
+    <title>HotTub | Nick Carbone's Portfolio</title>
+    <link href=" style2.css" type="text/css" rel="stylesheet">
+    <link rel="icon" href="./site_images/self.png">
+
+</head>
+
+<body>
+
+    
+    <nav class="anni-nav">
+        <div class="borderLeftRight">
+            <a href="./index.html#start-projects">My Portfolio</a>
+        </div>
+
+        <div class="borderLeftRight">
+            <a href="./index.html#aboutme">About Me</a>
+        </div>
+
+        <div class="borderLeftRight">
+            <a href="./index.html#contact">Contact</a>
+        </div>
+
+        <div class="borderLeftRight">
+            <a href="./Carbone_Nicholas_Resume.pdf" target="_blank">Resume</a>
+        </div>
+    </nav>
+
+    <div class="wrapper">
+
+        
+        <div class="flex" style="padding-top: 0px;">
+                <div class="flex-item7" style="padding-top: 0px;">
+                    <img class="flex-image6" src="site_images/Mac-Mock3.png">
+            </div>
+        </div>
+        
+                <div class="landing-heading-1">
+            <div class="underline">
+                <h1 class="uppercase">HotTub</h1>
+            </div>
+        </div>
+
+        <div class="landing-heading-2">
+            <div class="underline-2">
+                <h1 class="uppercase"> <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map">
+                        <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+                        <line x1="8" y1="2" x2="8" y2="18"></line>
+                        <line x1="16" y1="6" x2="16" y2="22"></line>
+                    </svg> 01. Summary</h1>
+            </div>
+            <br>
+            <div class="flex">
+                <div class="flex-item3">
+                    <p>HotTub is a location based social media application. The goal of our app is to connect you to those around you, wherever you are. There are no friends or followers, just those within a radius around you posting to your shared feed. Someone might be sharing something funny that happened a block away from you or an epic party on your college campus, maybe a traffic backup on your way to work? Whatever it may be, HotTub is a central platform to share information to the people around you. 
+We are excited to be launching our open beta soon!
+Check out our website at: </p>
+                </div>
+                <div class="flex-item3">
+                    <img class="flex-image" src="site_images/designer_1.svg">
+                </div>
+            </div>
+
+        </div>
+
+        <div class="landing-heading-2">
+            <div class="underline-2">
+                <h1 class="uppercase"> <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map">
+                        <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+                        <line x1="8" y1="2" x2="8" y2="18"></line>
+                        <line x1="16" y1="6" x2="16" y2="22"></line>
+                    </svg> 02. Challenge</h1>
+            </div>
+                   </div>
+        
+                    <div class="flex">
+                    <div class="flex-item3">
+                    <img class="flex-image" src="site_images/scrum_board.svg">
+                </div>
+                <div class="flex-item3">
+                    <p>The challenge throughout the development of this platform was that the workflow required to complete a project within the system is very complex. Because it is a government run organization the process is set in stone and we cannot optimize this workflow to better suit the program.
+                    Below is an example of one of the steps I mapped out that is needed to be completed within a project:</p>
+                </div>
+            </div>
+        <br>
+        <br>
+        <br>
+        <div class="flex">
+                <div class="flex-item7">
+                    <img class="flex-image6" src="site_images/Step_1_Questions_Flow.png">
+            </div>
+        </div>
+        
+            <div class="flex">
+                <div class="flex-item7">
+                    <p><strong>There are 3 acting parties within a governmental project:</strong></p>
+                <ul>
+                    <li>The Township which the project is occurring (We call these "Sponsors")</li>
+                    <li>The Department of Transportation</li>
+                    <li>The New Jersey Infrastructure Bank</li>
+                </ul>
+                <p>In order for a project to receive funding throughout its lifespan all of the required 4 steps must be completed in its entirety. Each step requires about 3-5 sub steps from each acting party. That is a total of about 12 sub-steps of required document uploads, form submittals or approvals in order to complete 1 of the 4 steps. To add to this, this process of completing steps is not linear and often times a sub step can be completed in a number of different orders. </p>
+                </div>
+            </div>
+        
+
+
+
+        <div class="landing-heading-2">
+            <div class="underline-2">
+                <h1 class="uppercase"> <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map">
+                        <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+                        <line x1="8" y1="2" x2="8" y2="18"></line>
+                        <line x1="16" y1="6" x2="16" y2="22"></line>
+                    </svg> 03. Solution</h1>
+            </div>
+        </div>
+        
+        
+                <div class="flex">
+                            <div class="flex-item3">
+                    <img class="flex-image6" src="site_images/under_constructions_2%20(2).svg">
+                </div>
+            <div class="flex-item3">
+                <h2>Let's Build!</h2>
+                <p>We could not do much about optimizing this process due to regulations set by the state government, however, we wanted to create a central platform that would handle these steps and make it as easy as possible to fund and collaborate on New Jersey's next bridge tunnel or roadway construction.</p>
+
+            </div>
+        </div>
+                            <div class="flex">
+                <div class="flex-item3">
+                    <h2>The Team</h2>
+                    <p>Our best solution to handling a repetative and complicated process was througha software application. For this, we needed to build a strong team diverse in skiils to make sure that the project is driven to success. The team we dedicated to this project was as follows: </p>
+                        <ul>
+                            <li>6 Developers</li>
+                            <li>1 Product Owner</li>
+                            <li>1 Product Manager</li>
+                            <li>1 Ux Designer ( Me )</li>
+                    </ul>
+                    
+                </div>
+                <div class="flex-item3">
+                    <img class="flex-image6" src="site_images/team_meeting_online.svg">
+                </div>
+            </div>
+
+        <div class="landing-heading-2">
+            <div class="underline-2">
+                <h1 class="uppercase"> <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map">
+                        <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+                        <line x1="8" y1="2" x2="8" y2="18"></line>
+                        <line x1="16" y1="6" x2="16" y2="22"></line>
+                    </svg> 04. The Design Process</h1>
+            </div>
+        </div>
+
+        
+                            <div class="flex">
+                <div class="flex-item3">
+                <h2>DISCOVERY / USER RESEARCH</h2>
+                <p>First we needed to map the process required for a Sponsor to complete in order to complete their journey through our platform. Below is a User Journey of the different steps they need to complete throughout the project.</p>
+                </div>
+                <div class="flex-item3">
+                    <img class="flex-image" src="site_images/mind_map.svg">
+                </div>
+            </div>
+
+        <div class="flex2">
+            <div class="flex-image4">
+                <h4><strong>Step 1</strong></h4>
+                <a href="./site_images/Business_Process_Flow_Step1_NJDOT.pdf" target="_blank"><img class="flex-image6" src="site_images/Business_Process_Flow_Step1_NJDOT.png"></a>
+            </div>
+            <div class="flex-item2">
+            </div>
+            <div class="flex-item2">
+            </div>
+            <div class="flex-image4">
+                <h3><strong>Step 2</strong></h3>
+                <a href="./site_images/Business_Process_Flow_Step2_NJDOT.pdf" target="_blank"><img class="flex-image6" src="site_images/Business_Process_Flow_Step2_NJDOT.png"></a>
+            </div>
+            <div class="flex-image4">
+                <h3><strong>Step 3</strong></h3>
+                <a href="./site_images/Business_Process_Flow_Step3_NJDOT.pdf" target="_blank"><img class="flex-image6" src="site_images/Business_Process_Flow_Step3_NJDOT.png"></a>
+            </div>
+            <div class="flex-item2">
+            </div>
+            <div class="flex-item2">
+            </div>
+            <div class="flex-image4">
+                <h4><strong>Step 4</strong></h4>
+                <a href="./site_images/Business_Process_Flow_Step4_NJDOT.pdf" target="_blank"><img class="flex-image6" src="site_images/Business_Process_Flow_Step4_NJDOT.png"></a>
+            </div>
+
+
+        </div>
+
+        <div class="flex">
+            <div class="flexmid">
+                <br>
+                <h2>USER INTERVIEWS</h2>
+                <p>First we needed to map the process required for a Sponsor to complete in order to complete their journey through our platform. Below is a User Journey of the different steps they need to complete throughout the project.</p>
+            </div>
+        </div>
+
+
+        <div class="flex">
+            <div class="flex-item3">
+                <a href="site_images/george.png" target="_blank"><img class="flex-image" src="site_images/george.png"></a>
+            </div>
+            <div class="flex-item3">
+                <a href="site_images/monica.png" target="_blank"><img class="flex-image" src="site_images/monica.png"></a>
+            </div>
+        </div>
+        
+                    <div class="flex">
+                <div class="flex-item3">
+ <h2>INFORMATION ARCHITECTURE </h2>
+                <p>The next step in the design process was to organize everything and give a structure to the app. This is known as Information Architecture. I started by defining the minimum requirements or deliverables for the app by drafting the User Stories. 
+                    <br>
+                    <br>
+                    User Stories is an exercise to put the users' needs and goals and competitors' features into different user type buckets. In general, there are three user types: new user, returning user and all users. The information collected from surveys, interviews and competitive analysis has to be grouped into these user types accordingly. That lays the foundation for the next step i.e. wireframes and defines my MVP goals in a clear way.</p>
+                </div>
+                <div class="flex-item3">
+                                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350" height="350" viewBox="0 0 558.65 585.42">
+  <defs>
+    <linearGradient id="linear-gradient" x1="342.44" y1="446.53" x2="326.67" y2="980.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="0.98"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="478.78" y1="155.87" x2="34.48" y2="513.17" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="165.7" y1="224.15" x2="268.19" y2="262.82" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="434.14" y1="131.57" x2="358.68" y2="273.48" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="229.82" y1="122.61" x2="280.72" y2="122.61" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ecc4d7"/>
+      <stop offset="0.42" stop-color="#efd4d1"/>
+      <stop offset="1" stop-color="#f2eac9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="259.32" y1="245.1" x2="-185.83" y2="180.06" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="310.46" y1="212.26" x2="290.19" y2="361.68" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="379.98" y1="179.97" x2="427.54" y2="179.97" xlink:href="#linear-gradient-5"/>
+    <linearGradient id="linear-gradient-9" x1="243.29" y1="544.63" x2="282.19" y2="544.63" xlink:href="#linear-gradient-5"/>
+    <linearGradient id="linear-gradient-10" x1="102.31" y1="511.23" x2="124.93" y2="511.23" xlink:href="#linear-gradient-5"/>
+    <linearGradient id="linear-gradient-11" x1="560.85" y1="-82.12" x2="494.97" y2="1162.94" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-12" x1="565.03" y1="-81.9" x2="499.15" y2="1163.16" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="572.99" y1="-81.47" x2="507.11" y2="1163.58" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-14" x1="576.85" y1="-81.27" x2="510.97" y2="1163.79" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-15" x1="580.62" y1="-81.07" x2="514.73" y2="1163.99" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>26. Checklist</title>
+  <path d="M266.19,108.7c-43.13,26.16-97.53,32.28-136,64.91-13.58,11.53-24.54,25.93-33.37,41.39C68.12,265.3,62.23,328.08,81.1,382.85s62.17,100.59,115.78,122.53c25.64,10.49,53.13,15.66,80.6,19.27a762.82,762.82,0,0,0,152.78,4.6c32.21-2.27,66.22-7.39,91-28.09,16.52-13.8,27.28-33.27,35.6-53.12a313.52,313.52,0,0,0,20.08-170.88c-5.73-34.91-17.58-69.08-37.1-98.58-32.84-49.65-84.52-82.22-137.48-107C381.57,61.9,355,45,331.82,54.78,307.45,65.08,289.41,94.62,266.19,108.7Z" transform="translate(-67.17 -4.31)" fill="#09a3fe" opacity="0.18" style="isolation: isolate"/>
+  <g>
+    <path d="M84.34,527.25c-4.55.87-9.33,1.88-12.78,5-6.58,5.9-5.23,17.22.55,23.9s14.58,9.79,23,12.34c70.32,21.15,145,21.3,218.42,21.27,22.43,0,45.45-.12,66.4-8.14,14.52-5.55,27.41-14.69,41.73-20.76,53.75-22.8,116.64.85,173.47-12.56,6.67-1.57,14.08-4.43,16.4-10.88,4.69-13-14.27-20.95-28.1-21.63a1683.85,1683.85,0,0,0-182.11.86c-48.45,2.85-92.59-11.53-141.22-9.56A1194.73,1194.73,0,0,0,84.34,527.25Z" transform="translate(-67.17 -4.31)" opacity="0.52" fill="url(#linear-gradient)"/>
+    <path d="M361,515.72H344.9A20.78,20.78,0,0,1,324.12,495V25.09A20.79,20.79,0,0,1,344.9,4.31H361a20.78,20.78,0,0,0-20.78,20.78V495A20.77,20.77,0,0,0,361,515.72Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M361,515.72H344.9A20.78,20.78,0,0,1,324.12,495V25.09A20.79,20.79,0,0,1,344.9,4.31H361a20.78,20.78,0,0,0-20.78,20.78V495A20.77,20.77,0,0,0,361,515.72Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-2)"/>
+    <path d="M209.71,166.09s-45.73,59.36-41.07,86,15.89,53.78,15.89,53.78l30.68-131Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M209.71,166.09s-45.73,59.36-41.07,86,15.89,53.78,15.89,53.78l30.68-131Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-3)"/>
+    <rect x="273.02" width="285.63" height="511.41" rx="20.78" fill="#09a3fe"/>
+    <path d="M485.94,61.94H362.88a7.28,7.28,0,0,1-7.28-7.29h0a7.28,7.28,0,0,1,7.28-7.28H485.94a7.29,7.29,0,0,1,7.29,7.28h0A7.29,7.29,0,0,1,485.94,61.94Z" transform="translate(-67.17 -4.31)" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <path d="M485.94,136.23H362.88A7.28,7.28,0,0,1,355.6,129h0a7.28,7.28,0,0,1,7.28-7.29H485.94a7.29,7.29,0,0,1,7.29,7.29h0A7.29,7.29,0,0,1,485.94,136.23Z" transform="translate(-67.17 -4.31)" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <path d="M485.94,210.52H362.88a7.28,7.28,0,0,1-7.28-7.28h0a7.28,7.28,0,0,1,7.28-7.29H485.94a7.29,7.29,0,0,1,7.29,7.29h0A7.29,7.29,0,0,1,485.94,210.52Z" transform="translate(-67.17 -4.31)" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <path d="M485.94,284.82H362.88a7.29,7.29,0,0,1-7.28-7.29h0a7.28,7.28,0,0,1,7.28-7.29H485.94a7.29,7.29,0,0,1,7.29,7.29h0A7.3,7.3,0,0,1,485.94,284.82Z" transform="translate(-67.17 -4.31)" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <path d="M485.94,359.11H362.88a7.29,7.29,0,0,1-7.28-7.29h0a7.28,7.28,0,0,1,7.28-7.29H485.94a7.29,7.29,0,0,1,7.29,7.29h0A7.3,7.3,0,0,1,485.94,359.11Z" transform="translate(-67.17 -4.31)" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <path d="M485.94,433.4H362.88a7.28,7.28,0,0,1-7.28-7.29h0a7.29,7.29,0,0,1,7.28-7.29H485.94a7.3,7.3,0,0,1,7.29,7.29h0A7.29,7.29,0,0,1,485.94,433.4Z" transform="translate(-67.17 -4.31)" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <path d="M188.4,322.54c8.65-16.63,50.77,19.2,56.09,37s-29.28,80.32-47.24,99.62S146,495.73,124.73,501.72c0,0-7.5-10-6-14.11s45.58-36.24,49.57-55.65S179.75,339.18,188.4,322.54Z" transform="translate(-67.17 -4.31)" fill="#302f47"/>
+    <path d="M391.67,167.73s-5.32-15.45-4.43-17.15,6.06-5.62,8.5-3.33,7.39,16.49,7.39,16.49L455.08,146s5.8-.9,5.19,5.44S403.76,180,403.76,180,399.21,184.66,391.67,167.73Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M391.67,167.73s-5.32-15.45-4.43-17.15,6.06-5.62,8.5-3.33,7.39,16.49,7.39,16.49L455.08,146s5.8-.9,5.19,5.44S403.76,180,403.76,180,399.21,184.66,391.67,167.73Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-4)"/>
+    <path d="M267.3,80.07s16.21,28.3,13,45.45-12.38,13.3-15.63,22.17a74.69,74.69,0,0,0-3.9,18s-9.41,7.64-26.26-13.15a45.87,45.87,0,0,0-2.62-25.15C226.52,114.58,229.42,68.34,267.3,80.07Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-5)"/>
+    <path d="M217.34,65.47c-24.82,23.68-35,9.32-47.4,15.87s-17.17,8.89-12.67,33.56-17.68,19.34-23,34.27c-15.21,42.67,10,50.12,38.14,48.94s25.49-52.54,46.23-54.53,25,1.11,33.39-25.53c4.94-15.67,1.42-22.51,8.13-27.83,8.57-6.79,11.56-21.5,2.61-27.77C252.92,55.55,233.13,50.41,217.34,65.47Z" transform="translate(-67.17 -4.31)" fill="#3f3d56"/>
+    <path d="M215.58,162.18s-2.07-9.46,4.73-12.71,26.29-4.82,29,0,5.68,15.74,8.58,16,14.81,19.2,14.81,19.2,2.49,52.62,2.63,73.05c.23,32.46-19.22,83.13-46.07,79s-46.44-11.59-46-25.51,23.12-118.79,21.5-130.6C203,167.87,215.12,161.74,215.58,162.18Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M215.58,162.18s-2.07-9.46,4.73-12.71,26.29-4.82,29,0,5.68,15.74,8.58,16,14.81,19.2,14.81,19.2,2.49,52.62,2.63,73.05c.23,32.46-19.22,83.13-46.07,79s-46.44-11.59-46-25.51,23.12-118.79,21.5-130.6C203,167.87,215.12,161.74,215.58,162.18Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-6)"/>
+    <path d="M239.69,178.59s10.34-20.4,25-8,32.65,58.25,45.17,58.51,64-41.22,68.49-37.47,12.29,13.11,8.09,21.1-61.76,58.39-86.55,53.67S222.26,227.83,239.69,178.59Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M239.69,178.59s10.34-20.4,25-8,32.65,58.25,45.17,58.51,64-41.22,68.49-37.47,12.29,13.11,8.09,21.1-61.76,58.39-86.55,53.67S222.26,227.83,239.69,178.59Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-7)"/>
+    <path d="M380,193.13s10.46-19.48,11.32-23,3.47,1.77,3.47,1.77,9-7.1,10.5-10.2,14.53-7.9,20.41-7.13-4,4.38-4,4.38-4.66,2.13-7.1,13.83-4.91,21.71-15.71,26.62-11.49,6-11.49,6S384.85,195.1,380,193.13Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-8)"/>
+    <path d="M188.4,322.54s-12.88,29.48,11.07,57,41.81,49,36.76,91.59,7.06,64.54,7.06,64.54h14.12s21.91-78.9,18.13-112.31-20.27-100.72-20.27-100.72S223,307.24,188.4,322.54Z" transform="translate(-67.17 -4.31)" fill="#3f3d56"/>
+    <path d="M243.29,535.65v18h38.9s-23.29-4.21-23.95-9-.83-9-.83-9Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-9)"/>
+    <path d="M246.17,548.12c-1.76-.36-3.95-.8-5.06.61a4,4,0,0,0-.68,1.77,21.47,21.47,0,0,0-.38,5.31c.07,1.33.38,2.83,1.53,3.49a4.4,4.4,0,0,0,2.31.37l40.34-.74c1.54,0,3.32-.17,4.19-1.44a3.34,3.34,0,0,0,.5-2.1,7,7,0,0,0-3-5,17.51,17.51,0,0,0-5.49-2.49c-5-1.52-13-4.36-17.94-2.29C257.1,547.84,252.12,549.37,246.17,548.12Z" transform="translate(-67.17 -4.31)" fill="#3f3d56"/>
+    <path d="M118.34,490.31l-16,8.17,19.48,33.67s-8-22.27-4.22-25.23,7.36-5.21,7.36-5.21Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-10)"/>
+    <path d="M108.5,498.23c-.56-1.71-1.28-3.82-3.06-4.08a3.86,3.86,0,0,0-1.86.29,22,22,0,0,0-4.8,2.34c-1.11.72-2.25,1.74-2.25,3.07a4.43,4.43,0,0,0,.83,2.18q10.42,17.28,20.84,34.56c.8,1.31,1.82,2.78,3.35,2.9a3.38,3.38,0,0,0,2.07-.62,7,7,0,0,0,2.87-5.12,17.62,17.62,0,0,0-.59-6c-1.17-5.07-2.75-13.46-7-16.68C114.22,507.54,110.4,504,108.5,498.23Z" transform="translate(-67.17 -4.31)" fill="#3f3d56"/>
+    <rect x="456.71" y="24.09" width="53.05" height="46.4" rx="5.69" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <rect x="456.71" y="104.73" width="53.05" height="46.4" rx="5.69" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <rect x="456.71" y="177.9" width="53.05" height="46.4" rx="5.69" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <rect x="456.71" y="322.67" width="53.05" height="46.4" rx="5.69" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <rect x="456.71" y="250.01" width="53.05" height="46.4" rx="5.69" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <rect x="456.71" y="398.6" width="53.05" height="46.4" rx="5.69" fill="#fff" opacity="0.34" style="isolation: isolate"/>
+    <path d="M527.6,44.83l9.54,16c3,5,8.16,6,11.9,2.42l32.29-31.08s3-4.29-.19-7.61-5.83.5-5.83.5l-28.6,27.48c-1.81,1.65-4.28,1.11-5.68-1.26l-7.6-12.87C532,36,529.35,35.78,527.78,38h0A6.66,6.66,0,0,0,527.6,44.83Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M527.6,124l9.54,16c3,4.95,8.16,6,11.9,2.42l32.29-31.08s3-4.29-.19-7.61-5.83.5-5.83.5l-28.6,27.48c-1.81,1.65-4.28,1.11-5.68-1.26l-7.6-12.87c-1.44-2.43-4.08-2.65-5.65-.47h0A6.66,6.66,0,0,0,527.6,124Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M527.6,274.85l9.54,16c3,4.95,8.16,6,11.9,2.42l32.29-31.09s3-4.29-.19-7.61-5.83.5-5.83.5l-28.6,27.49c-1.81,1.65-4.28,1.1-5.68-1.26l-7.6-12.87c-1.44-2.43-4.08-2.65-5.65-.47h0A6.66,6.66,0,0,0,527.6,274.85Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M527.6,348.05l9.54,16c3,4.95,8.16,6,11.9,2.42l32.29-31.08s3-4.3-.19-7.62-5.83.5-5.83.5l-28.6,27.49c-1.81,1.65-4.28,1.1-5.68-1.26l-7.6-12.87c-1.44-2.43-4.08-2.65-5.65-.47h0A6.66,6.66,0,0,0,527.6,348.05Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M527.6,419.35l9.54,16c3,5,8.16,6,11.9,2.43l32.29-31.09s3-4.29-.19-7.61-5.83.5-5.83.5l-28.6,27.48c-1.81,1.66-4.28,1.11-5.68-1.26L533.43,413c-1.44-2.43-4.08-2.65-5.65-.47h0A6.66,6.66,0,0,0,527.6,419.35Z" transform="translate(-67.17 -4.31)" fill="#09a3fe"/>
+    <path d="M527.6,44.83l9.54,16c3,5,8.16,6,11.9,2.42l32.29-31.08s3-4.29-.19-7.61-5.83.5-5.83.5l-28.6,27.48c-1.81,1.65-4.28,1.11-5.68-1.26l-7.6-12.87C532,36,529.35,35.78,527.78,38h0A6.66,6.66,0,0,0,527.6,44.83Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-11)"/>
+    <path d="M527.6,124l9.54,16c3,4.95,8.16,6,11.9,2.42l32.29-31.08s3-4.29-.19-7.61-5.83.5-5.83.5l-28.6,27.48c-1.81,1.65-4.28,1.11-5.68-1.26l-7.6-12.87c-1.44-2.43-4.08-2.65-5.65-.47h0A6.66,6.66,0,0,0,527.6,124Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-12)"/>
+    <path d="M527.6,274.85l9.54,16c3,4.95,8.16,6,11.9,2.42l32.29-31.09s3-4.29-.19-7.61-5.83.5-5.83.5l-28.6,27.49c-1.81,1.65-4.28,1.1-5.68-1.26l-7.6-12.87c-1.44-2.43-4.08-2.65-5.65-.47h0A6.66,6.66,0,0,0,527.6,274.85Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-13)"/>
+    <path d="M527.6,348.05l9.54,16c3,4.95,8.16,6,11.9,2.42l32.29-31.08s3-4.3-.19-7.62-5.83.5-5.83.5l-28.6,27.49c-1.81,1.65-4.28,1.1-5.68-1.26l-7.6-12.87c-1.44-2.43-4.08-2.65-5.65-.47h0A6.66,6.66,0,0,0,527.6,348.05Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-14)"/>
+    <path d="M527.6,419.35l9.54,16c3,5,8.16,6,11.9,2.43l32.29-31.09s3-4.29-.19-7.61-5.83.5-5.83.5l-28.6,27.48c-1.81,1.66-4.28,1.11-5.68-1.26L533.43,413c-1.44-2.43-4.08-2.65-5.65-.47h0A6.66,6.66,0,0,0,527.6,419.35Z" transform="translate(-67.17 -4.31)" fill="url(#linear-gradient-15)"/>
+  </g>
+</svg>
+                </div>
+            </div>
+
+
+
+        <div class="flex"></div>
+        <div class="flex">
+            <div class="flex-item7">
+                <table align="center">
+                    <tr>
+                        <th>USER TYPE</th>
+                        <th>USER STORY</th>
+                        <th>REASON</th>
+                    </tr>
+                    <tr>
+                        <th>New User</th>
+                        <td>
+                            <ul>
+                            <li>Be added into an organization to be able to view and edit projects.</li>
+                            <li>Allow user to view the projects they’re assigned to and the overview of which state the project is at.</li>
+                            </ul>
+                        </td>
+                        <td>
+                        <ul>
+                            <li>Users will not have access to projects outside of their organization's and should be restricted to only seeing their own organization’s projects.Be added into an organization to be able to view and edit projects.</li>
+                            <li>Users should be able to see their own projects they've been working without having to search through all projects within the system.</li></ul></td>
+                    <tr>
+                        <th>Returning User</th>
+                        <td>
+                            <ul>
+                            <li>Allow users to Add users into the system and assign roles.</li>
+                            <li>Check notifications to see if a project has progressed through the workflow.</li>
+                            <li>Quickly view what state the project is in and if the user is required to fill out any additional steps.</li>
+                            </ul>
+                        </td>
+                        <td><ul>
+                            <li>This system will be maintained by both NJIB and DOT, we will  both have the roles as Organization manager who is able to manage users within the system.organization to be able to view and edit projects.</li>
+                            <li>As a user I want to be notified when I need to complete a task ignorer to stay up to date and constantly progressing my projects.</li>
+                            <li>Users need to quickly tell which of the projects they’re working on and if the project has a task that is needed to be completed by them, the DOT, or the NJIB.</li>
+                            </ul></td>
+                    <tr>
+                        <th>All Users</th>
+                        <td>
+                            <ul>
+                            <li>Digitalize the Process of Tracking and completing a New Jersey Infrastructure Project.</li>
+                            <li> Have a single space to upload forms and data. (Steps 1 - 4)</li>
+                            <li> Allow Sponsors to create a project in step 1 and continue with steps 2&nbsp;-&nbsp;4 once permissions is given by NJIB.</li>
+                            <li> Review / Onboard Sponsor Files</li>
+                            </ul>
+                        </td>
+                        <td><ul>
+                            <li>
+                            Currently this process is managed through paper copies and handing these off physically in person or over email. The program should manage the workflow in a webbed system that does not require any physical copies.
+                            </li>
+                            <li>The program should be cloud based so that users can access the system from anywhere on only device whether they’re out in the field or in the office.
+                                </li><li>Users should not be able to progress through the steps freely taking out loans as they want. Permission should be granted at each level of the program in order to progress with funding a project.</li>
+                            <li>Sponsors currently following the steps through paper should be able to pick up their progress from within the program. NJIB Reviewers should be able to review all documents and submitted forms from within the system.</li></ul></td>
+                    </tr>
+
+                </table>
+            </div>
+        </div>
+
+
+            <div class="flex">
+                <div class="flexmid">
+                <h2>WIREFRAMES & HI-FI MOCKUPS</h2>
+                <p>Wireframe sketching is the first step where you translate written matter into its visual layout. They are low fidelity in nature and does not contain an actual copy. They help you to decide the visual layout by placing appropriate UI elements and sizing them accordingly.</p>
+                </div>
+    </div>
+        
+                <div class="flex2">
+            <div class="flex-item6">
+                <a href="./site_images/Details.png" target="_blank"><img class="flex-image3" src="site_images/Details.png"></a>
+            </div>
+            <div class="flex-item">
+            </div>
+        </div>
+
+        <div class="flex2">
+            <div class="flex-item">
+            </div>
+            <div class="flex-item6">
+                <a href="./site_images/Step2.png" target="_blank"><img class="flex-image3" src="site_images/Step2.png"></a>
+            </div>
+        </div>
+
+
+        <div class="flex2">
+            <div class="flex-item6">
+                <a href="./site_images/overview.png" target="_blank"><img class="flex-image3" src="site_images/overview.png"></a>
+            </div>
+            <div class="flex-item">
+            </div>
+        </div>
+
+        <div class="flex2">
+            <div class="flex-item">
+            </div>
+            <div class="flex-item6">
+                <a href="./site_images/Team.png" target="_blank"><img class="flex-image3" src="site_images/Team.png"></a>
+            </div>
+        </div>
+
+        <div class="flex2">
+            <div class="flex-item6">
+                <a href="./site_images/files.png" target="_blank"><img class="flex-image3" src="site_images/files.png"></a>
+            </div>
+            <div class="flex-item">
+            </div>
+        </div>
+
+        <div class="btn-wrap">
+            <a class="btn" href="https://xd.adobe.com/view/b36b3906-12ba-4232-5484-1c0d5686b9a3-c55a/?fullscreen" target="_blank">View Prototype</a>
+        </div>
+
+        <div class="landing-heading-2">
+            <div class="underline-2">
+                <h1 class="uppercase"> <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map">
+                        <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+                        <line x1="8" y1="2" x2="8" y2="18"></line>
+                        <line x1="16" y1="6" x2="16" y2="22"></line>
+                    </svg> 05. Conclusion</h1>
+            </div>
+        </div>
+        
+
+                <div class="flex">
+                                                            <div class="flexmid">
+                <a href="./site_images/NJ-Moves_GridMock.png" target="_blank"><img class="flex-image" src="site_images/NJ-Moves_GridMock.png"></a>
+            </div>
+            <div class="flexmid">
+                                <p class="section-content">
+                    This is by far the one of the most UX/UI intensive projects I have undertaken. I have spent 6 months working on this project starting from brainstorming to deploying the interactive prototype and finally working with developers to make sure the program is made to its fullest potential. <br><br>I have a lot to say regarding this project as I have left no stones unturned when it came to putting in the best of my efforts at each stage of this project. That said, mistakes are made even when you go all in. <br><br><strong>Some tips to avoid repeating them in the future:</strong>
+                </p>
+                <ul>
+                    <li>Make all the wireframes of the product/service in the start instead of doing it in stages</li>
+                    <li>Stick to the MVP goals throughout the project phase; adding extra features is always tempting but this can burn your time and energy.</li>
+                    <li>Take into consideration different screen sizes and design accordingly.</li>
+                    <li>Avoid implementing interactive states wherever possible as this results in double-clicks and may confuse the user about the integrity of the prototype.</li>
+                </ul>
+                <p class="section-content">Looking at the service as a whole, I am confident that the solutions I came up with, will definitely drive more infrasturtue projects through till completion throughout New Jersey.<br><br>
+                </p>
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+    <a href="./index.html#start-projects" class="float"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left">
+            <line x1="19" y1="12" x2="5" y2="12"></line>
+            <polyline points="12 19 5 12 12 5"></polyline>
+        </svg></a>
+
+    </div>
+    </div>
+    <div class="footer-spacing">
+
+        <footer>
+            <div>
+                <div class="copy">
+                    <h6><strong>Copyright</strong></h6>
+                    <td>
+                        <h6>&copy; 2019 Nick Carbone</h6>
+                    </td>
+                </div>
+                <div class="copy">
+                    <div class="footnav">
+                        <h6><strong><a href="./index.html#start-projects"> My Portfolio </a> | <a href="./index.html#aboutme"> About Me </a> | <a href="./index.html#contact"> Contact </a> | <a href="./Carbone_Nicholas_Resume.pdf" target="_blank"> Resume </a></strong></h6>
+                    </div>
+                </div>
+                <div class="copy">
+                    <div class="contact">
+                        <h6><strong>Contact</strong></h6>
+                        <td>
+                            <h6>njcbone@gmail.com</h6>
+                        </td>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+</body>
+
+</html>
