@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116277308-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-116277308-2');
+
+    </script>
+
+    <title>Payfone Challenge | Nick Carbone's Portfolio</title>
+</head>
+
+<body>
+    <div id="target">
+    
+    </div>
+
+    <script src="js/lottie.js" type="text/javascript"></script>
+    <script>
+        const target = document.getElementById('target');
+        
+        lottie.loadAnimation({
+            container: target, // the dom element that will contain the animation
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: './js/animation.json' // the path to the animation json
+        });
+
+    </script>
+
+
+</body>
+
+</html>
