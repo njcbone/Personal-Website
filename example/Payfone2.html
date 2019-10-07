@@ -19,11 +19,45 @@
     </script>
 
     <title>Payfone Challenge | Nick Carbone's Portfolio</title>
+    <style>
+        h1 {
+            color: blue;
+            font-family: Arial, sans-serif;
+            padding: 100px 0;
+            text-align: center;
+        }
+        
+        #container {
+            align-content: center;
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+        }
+        
+        #text {
+            width: 50%;
+        }
+        
+        #target {
+            width: 50%;
+        }
+
+        @media screen and (max-width: 600px) {
+
+            #container {
+                flex-direction: column;
+            }
+        }
+        
+    </style>
 </head>
 
 <body>
-    <div id="target">
-    
+    <div id="container">
+        <div id="text">
+            <h1>This is some text</h1>
+        </div>
+        <div id="target"></div>
     </div>
 
     <script src="js/lottie.js" type="text/javascript"></script>
@@ -39,6 +73,8 @@
         });
 
     </script>
+    
+    
 
 
 </body>
