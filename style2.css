@@ -6,7 +6,7 @@
 
 body {
     margin: 0;
-    font-family: 'Raleway', sans-serif;
+    font-family:'Poppins', sans-serif;
     /*   background-color: #161b30;*/
     background-color: #121524;
     line-height: 1.5;
@@ -580,6 +580,27 @@ ul {
 }
 .cell-1 {
     flex-basis: 100%;
+}
+
+.vd{
+  margin: 0 auto;
+  text-align: center;
+  width: 55%;
+  margin-top: 50px;
+}
+
+.lottie-flex{
+  display: inline-block;
+  flex-wrap: wrap;
+  width:100%;
+  max-width: 1600px;
+  text-align: center;
+}
+
+.lottie{
+  display: inherit;
+  margin: auto;
+  width: 45%;
 }
 
 @media (max-width: 500px) {
